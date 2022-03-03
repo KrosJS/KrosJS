@@ -15,7 +15,6 @@ __🔱 OS : Pop OS ([Linux](https://pop.system76.com))__
 __🔧 Graphics Card : NVIDIA GeForce GTX 1650__ <br />
 __🌈 Ram : 8 GB__ <br />
 __🖵 Monitor : HP 23xw__ <br />
-
 ### Projects and people I support :
 [ ⭐ Reponse | JavaScript based chat site ](https://github.com/Reponse-App) <br />
 [ ⭐ Themis | Powerfull and Lightweight packet manager.](https://github.com/themispkg/themis) <br />
