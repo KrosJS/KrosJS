@@ -21,4 +21,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.4
         with:
-          devcard_id: ${{ https://api.daily.dev/devcards/c2f7cf7dbcb149dba86d8c29fe491254}}
+          devcard_id: ${{ c2f7cf7dbcb149dba86d8c29fe491254 }}
