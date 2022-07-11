@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/rel0aded"><img src="https://api.daily.dev/devcards/c2f7cf7dbcb149dba86d8c29fe491254.png?r=9l6" width="400" alt="Uzay Oran's Dev Card"/></a>
 ### About Me : 
 __🌼 14 Years old Developer__ <br />
 __ℹ️ He has been involved with computers since he was little.__ <br />
@@ -11,7 +12,7 @@ __💻 During these times, he devoted the most time to the [Bash](https://tr.wik
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>&nbsp;
   
 ### My setup
-__🔱 OS : Pop OS ([Linux](https://pop.system76.com))__
+__🔱 OS : Windows 11
 __🔧 Graphics Card : NVIDIA GeForce GTX 1650__ <br />
 __🌈 Ram : 8 GB__ <br />
 __🖵 Monitor : HP 23xw__ <br />
